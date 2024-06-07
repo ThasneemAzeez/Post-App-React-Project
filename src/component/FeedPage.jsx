@@ -59,7 +59,7 @@ const FeedPage = () => {
               <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
                 <div class="card" >
-                  <img src="https://www.tsemrinpoche.com/wp-content/uploads/2012/01/pic02.jpg" class="card-img-top" alt="..."></img>
+                  <img src="https://as2.ftcdn.net/v2/jpg/05/34/84/83/1000_F_534848306_YvBtUcP2k2LO6oYhpBRq0pfGFsHks5BW.jpg" class="card-img-top" alt="..."></img>
                     <div class="card-body">
                       
                     </div>
@@ -70,7 +70,7 @@ const FeedPage = () => {
               <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
               <div class="card" >
-                  <img src="https://wallpapers.com/images/hd/interesting-pictures-0btcclivllsacsw2.jpg" class="card-img-top" alt="..."></img>
+                  <img src="https://as2.ftcdn.net/v2/jpg/05/34/84/83/1000_F_534848306_YvBtUcP2k2LO6oYhpBRq0pfGFsHks5BW.jpg" class="card-img-top" alt="..."></img>
                     <div class="card-body">
                       
                     </div>
@@ -81,7 +81,7 @@ const FeedPage = () => {
               <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
               <div class="card" >
-                  <img src="https://www.allearsenglish.com/wp-content/uploads/2014/09/AEE-185-Are-You-Interested-or-Interesting-Find-Out-the-Difference-in-English.jpg" class="card-img-top" alt="..."></img>
+                  <img src="https://images.ctfassets.net/az3stxsro5h5/3iTFL5GZXfUQjRY1PbsZFM/6425e155cbca6ea23ad76529df70fdf7/https___later.com_blog_wp-content_uploads_2016_10_IMG_8076-473x1024.png?w=473&h=1024&q=50&fm=png" class="card-img-top" alt="..."></img>
                     <div class="card-body">
                       
                     </div>
