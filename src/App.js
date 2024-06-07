@@ -9,10 +9,14 @@ import User from './component/User';
 function App() {
   return (
     <div >
-     <ForntPage/>
-     <FeedPage/>
-     <SearchUser/>
-     <User/>
+     <BrowserRouter>
+     <Routes>
+      <Route path='/' element={<ForntPage/>}/>
+      <Route path='/Feeds' element={<FeedPage/>}/>
+      <Route path='/Search' element={<SearchUser/>}/>
+      <Route path='/Viewall' element={<User/>}/>
+     </Routes>
+     </BrowserRouter>
     </div>
   );
 }
